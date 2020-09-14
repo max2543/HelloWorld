@@ -21,9 +21,6 @@ public class DateTime {
         System.out.println("Data is " + day + "/" + (month+1) + "/" + year);
         System.out.println("Data is " + hour + ":" + minute + "/" + second);
 
-
-
-
     }
 }
 
